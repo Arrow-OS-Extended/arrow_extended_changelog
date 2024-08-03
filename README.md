@@ -1,3 +1,10 @@
+August 2024
+
+- Update Security Patch May > July 2024
+- Added support string maintainer
+- Added support In-call notifications
+- Added support DNS private
+
 July 2024
 
 - Initial changes Revived
