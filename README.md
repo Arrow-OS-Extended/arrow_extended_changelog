@@ -1,9 +1,14 @@
 August 2024
 
-- Update Security Patch May > July 2024
+- Update Security Patch May > August 2024
 - Added support string maintainer
 - Added support In-call notifications
 - Added support DNS private
+- Added keylayout mapping for gamepad
+- Added spoof packages installed by Aurora Store
+- Minor fixes in GameSpace
+- Update GameUnlocker (GamePropsUtils)
+- Update fingerprint to SafetyPass
 
 July 2024
 
@@ -23,7 +28,7 @@ July 2024
 - SafetyPass and Integrity by default (Include the signing keys)
 - Update security patch for May 2024
 - Added OnePlus Slate, SanFrancisco and Ubuntu Fonts
-- Add pt-rBR translation for launcher and memory info
+- Added pt-rBR translation for launcher and memory info
 
 For those using recovery aosp:
 
