@@ -9,6 +9,11 @@ August 2024
 - Minor fixes in GameSpace
 - Update GameUnlocker (GamePropsUtils)
 - Update fingerprint to SafetyPass
+- Added support Custom PIF
+- Added support active google photos unlimited
+- Corrections to available memory values
+- Correction in reading the Soc Model
+- Added illustration for facial recognition
 
 July 2024
 
