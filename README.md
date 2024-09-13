@@ -1,3 +1,9 @@
+September 2024
+
+- Added support to strong integrity (for devices with native TEE)
+- Replace Calendar and Gallery to fossify
+- Update Security Patch to September 2024
+
 August 2024
 
 - Update Security Patch May > August 2024
