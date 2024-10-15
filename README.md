@@ -1,3 +1,11 @@
+October 2024
+
+- Added boostframework (CLO) support
+- Added support crowdin
+- Added support keybox changes for use of tricket store
+- Update Security Patch to October 2024
+- Update fingerprint to SafetyPass
+
 September 2024
 
 - Added support to strong integrity (for devices with native TEE)
