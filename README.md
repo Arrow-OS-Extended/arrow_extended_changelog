@@ -1,3 +1,8 @@
+November 2024
+
+- Update Security Patch to November 2024
+- Update fingerprint to SafetyPass
+
 October 2024
 
 - Added boostframework (CLO) support
