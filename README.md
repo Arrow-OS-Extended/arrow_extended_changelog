@@ -1,3 +1,8 @@
+December 2024
+
+- Update Security Patch to December 2024
+- Update fingerprint to SafetyPass
+
 November 2024
 
 - Update Security Patch to November 2024
