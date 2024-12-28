@@ -2,6 +2,8 @@ December 2024
 
 - Update Security Patch to December 2024
 - Update fingerprint to SafetyPass
+- Fixed Photos unlimited storage
+- Add support for per-app spoofing
 
 November 2024
 
