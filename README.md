@@ -1,3 +1,12 @@
+February 2025
+
+- Update Security Patch to February 2025
+- Update fingerprint to SafetyPass
+- Game space changes (thanks to derpfest and some fix commits from iverz)
+- Simple music player replaced by gramophone
+- iceraven browser replaced by via
+- Set TARGET_CORE_GMS := true (for minimal gapps)
+
 January 2025
 
 - Update Security Patch to January 2025
