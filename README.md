@@ -1,5 +1,15 @@
 March 2025
 
+- Update Security Patch to May 2025
+- Added Bypass Charging Props
+- Play Integrity is dead, Use your own methods to pass
+
+April 2025
+
+- Update Security Patch to April 2025
+
+March 2025
+
 - Update Security Patch to March 2025
 
 February 2025
