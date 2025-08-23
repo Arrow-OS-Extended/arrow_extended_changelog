@@ -1,3 +1,11 @@
+August 2025
+
+- Update Security Patch to August 2025
+
+July 2025
+
+- Update Security Patch to July 2025
+  
 June 2025
 
 - Update Security Patch to June 2025
