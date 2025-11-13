@@ -1,3 +1,9 @@
+November 2025
+
+- Added Keybox Spoofing (Import valid Keybox and Pif in spoofing section for strong Integrity)
+- Merged Latest patches from LOS
+- Update Security Patch to November 2025
+
 August 2025
 
 - Update Security Patch to August 2025
